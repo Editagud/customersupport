@@ -5,7 +5,16 @@
     
 }
 div{
-    background-color: lightgrey;
+   
     margin: 1em;
     padding:1em;
+}
+#remove{
+    float:right;
+    background-color: black;
+    color:white;
+    
+}
+#container{
+    transition: all 3s ease-in;
 }
