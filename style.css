@@ -1,0 +1,11 @@
+
+#list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+div{
+    background-color: lightgrey;
+    margin: 1em;
+    padding:1em;
+}
